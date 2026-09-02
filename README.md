@@ -7,6 +7,16 @@ This project recreates the main layout and visual design of Amazon's website for
 
 🔗 **Live Website:** https://priyamarya-hub.github.io/amazon-clone/
 
+## 📸 Screenshots
+
+### Homepage
+
+![Amazon Clone Homepage](screenshot1.png)
+
+### Full Page
+
+![Amazon Clone Full Page](screenshot2.png)
+
 ## 📂 Project Overview
 
 This project includes a recreation of the major sections of the Amazon homepage:
