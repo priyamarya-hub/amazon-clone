@@ -11,11 +11,11 @@ This project recreates the main layout and visual design of Amazon's website for
 
 ### Homepage
 
-![Amazon Clone Homepage](screenshot1.png)
+![Amazon Clone Homepage](screenshot1.png.png)
 
 ### Full Page
 
-![Amazon Clone Full Page](screenshot2.png)
+![Amazon Clone Full Page](screenshot2.png.png)
 
 ## 📂 Project Overview
 
